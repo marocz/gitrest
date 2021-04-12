@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="330eac41-2469-4981-91ce-2d7c9c5ea755" name="Default Changelist" comment="all">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/git/gitrest/api/dto/CodesearchDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/git/gitrest/api/dto/CommitsDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/git/gitrest/api/dto/CommitsUserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/git/gitrest/api/dto/ProjectionbyCodeSearchDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/git/gitrest/api/dto/TopicsDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/resources/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/litlms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/litlms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/ChatAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/controller/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/controller/NotificationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/controller/ProfilesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/AdminDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/ChangePassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/CreateNewAccountDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/EditProfileDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/EditProfileDTO2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/Model1DTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/Model2DTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/Model3DTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/NotificationDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/Profile2DTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/ProfileDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/String1DTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/dto/String2DTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/entities/Roles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/entities/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/exceptions/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/model/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/model/ApplicationUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/model/ChatMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/model/ChatNotification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/model/ChatRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/model/ConfirmationToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/model/MessageStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/model/Notification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/model/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/model/Profileadmin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/model/UserForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/repository/AdminRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/repository/ChatMessageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/repository/ChatRoomRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/repository/ConfirmationTokenRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/repository/NotificationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/repository/ProfileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/repository/ProfileadminRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/repository/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/security/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/security/JWTAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/security/JWTAuthorizationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/security/MySimpleUrlAuthenticationSuccessHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/security/SecurityConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/security/WebSecurity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/security/WebSecurityConfig2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/security/WebSocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/ChatMessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/ChatRoomService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/CreateNewAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/EmailSenderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/NotificationServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/ProfileServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/ProfileadminServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/SecurityService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/UserValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/impl/SecurityServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/impl/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/chatproject/marocz/services/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/test/java/com/chatproject/marocz/ChatAppApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatapp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.home1-mainslider</find>
+      <find>slide</find>
+      <find>slide-one</find>
+      <find>container-fluid</find>
+      <find>header-nav</find>
+      <find>menu_style_home_one</find>
+      <find>stricky</find>
+      <find>main-menu</find>
+      <find>img-fluid</find>
+      <find>dn-smd</find>
+      <find>logo1</find>
+      <find>block_cocoon_slider_1</find>
+      <find>home1-mainslider</find>
+      <find>exampleModalCenter</find>
+      <find>sign_up_modal</find>
+      <find>search-button</find>
+      <find>search-button-listener</find>
+      <find>ace-responsive-menu</find>
+      <find>countdown</find>
+      <find>preloader</find>
+      <find>inner_page_breadcrumb</find>
+      <find>clearfix</find>
+      <find>accordion</find>
+      <find>data-toggle</find>
+      <find>panel-collapse</find>
+      <find>panel-</find>
+      <find>section-0</find>
+      <find>panel</find>
+      <find>panel-body</find>
+      <find>panel-4</find>
+    </findStrings>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/api" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="C:\Users\temp\.m2\repository" />
+        <option name="mavenHome" value="C:\Users\temp\apache-maven-3.6.3-bin\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UG4pDX89uz1CmBMYi3TWdYahR7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594750324533" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api/target/api-0.0.1-SNAPSHOT.jar" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oghenemaro.oghenovo\project\litlms\litlms\src\main\resources\static\images" />
+      <recent name="C:\Users\oghenemaro.oghenovo\project\litlms\litlms\src\main\resources\templates\mspowerbi" />
+      <recent name="C:\Users\oghenemaro.oghenovo\project\litlms\litlms\src\main\java\com\lit\lms\services\core" />
+      <recent name="C:\Users\oghenemaro.oghenovo\project\litlms\litlms\src\main\java\com\lit\lms\services\constants" />
+      <recent name="C:\Users\oghenemaro.oghenovo\project\litlms\litlms" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="git.gitrest.api.dto" />
+      <recent name="com.lit.lms.repository" />
+      <recent name="com.lit.lms.dto" />
+      <recent name="com.lit.lms.model" />
+      <recent name="com.lit.lms.services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oghenemaro.oghenovo\project\litlms\litlms\src\main\resources" />
+      <recent name="C:\Users\oghenemaro.oghenovo\project\ladiesconnect\ladiesconnect\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn taylor-app" />
+      <command value="mvn clean install" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/api/target/api-0.0.1-SNAPSHOT.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\temp\projects\git\gitrest\api" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/taylor-app" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="330eac41-2469-4981-91ce-2d7c9c5ea755" name="Default Changelist" comment="" />
+      <created>1574969778693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574969778693</updated>
+      <workItem from="1594818808919" duration="7981000" />
+      <workItem from="1594980008129" duration="17573000" />
+      <workItem from="1595175430098" duration="5930000" />
+      <workItem from="1595181609817" duration="27613000" />
+      <workItem from="1595515473871" duration="8447000" />
+      <workItem from="1595539644621" duration="4006000" />
+      <workItem from="1595597867662" duration="5781000" />
+      <workItem from="1596067819520" duration="14000" />
+      <workItem from="1596097704283" duration="2134000" />
+      <workItem from="1596104067214" duration="24333000" />
+      <workItem from="1596370496586" duration="3978000" />
+      <workItem from="1596441550364" duration="12192000" />
+      <workItem from="1598534575224" duration="736000" />
+      <workItem from="1598869156249" duration="637000" />
+      <workItem from="1599253788571" duration="2712000" />
+      <workItem from="1599647163519" duration="2951000" />
+      <workItem from="1599842058824" duration="585000" />
+      <workItem from="1600526240507" duration="867000" />
+      <workItem from="1601378920426" duration="10138000" />
+      <workItem from="1601560090244" duration="27382000" />
+      <workItem from="1601893422367" duration="16057000" />
+      <workItem from="1601974535562" duration="11764000" />
+      <workItem from="1602143023395" duration="4279000" />
+    </task>
+    <task id="LOCAL-00001" summary="all">
+      <created>1582891757477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582891757477</updated>
+    </task>
+    <task id="LOCAL-00002" summary="all">
+      <created>1583054324217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583054324217</updated>
+    </task>
+    <task id="LOCAL-00003" summary="all">
+      <created>1601380509598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601380509598</updated>
+    </task>
+    <task id="LOCAL-00004" summary="all">
+      <created>1601382198857</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601382198857</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all" />
+    <option name="LAST_COMMIT_MESSAGE" value="all" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="788" y="115" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617803969250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="788" y="115" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617803969250" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1617923760300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617923760300" />
+    <state x="743" y="389" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1617786152281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="389" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1617786152281" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617747606360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617747606360" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1617804386040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617804386040" />
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1618168261923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618168261923" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1618168261923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618168261923" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1618168261923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618168261923" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1618168261923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618168261923" />
+    <state x="704" y="147" key="SettingsEditor" timestamp="1617998646460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="147" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617998646460" />
+    <state x="928" y="464" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1617801664173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="928" y="464" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1617801664173" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1617800068409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617800068409" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617802904316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617802904316" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ladiesconnect/src/main/java/com/lit/lms/entities/ExcelData.java</url>
+          <line>15</line>
+          <properties class="com.ubagroup.ladiesconnect.entities.ExcelData">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/ladiesconnect" />
+    <option value="clean install" />
+    <option value="clean" />
+    <option value="- clean install" />
+  </component>
+</project>

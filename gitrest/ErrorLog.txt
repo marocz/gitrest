@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap12:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://www.w3.org/2003/05/soap-envelope">
+  <soap12:Body>
+    <SendMail xmlns="http://tempuri.org/">
+ <recipient>christiana.nwabeke@ubagroup.com</recipient>
+      <sender>Talent.Management@ubagroup.com</sender>
+      <subject>Mentorship Notification</subject>
+      <body><![CDATA[<span style="font-size:16px; font-family:century gothic;">
+                 
+  Dear Christiana<br/><br/>
+Your request for be a mentor has been approved.<br/><br/>
+ Please expect the details of your mentees and other guidelines soon. <br/><br/>
+Best Regards,<br/><br/>
+Talent Management<br/><br/><br/>
+<br/></span>]]></body>
+      <CCs>
+        <string>HCMAutomationProject@ubagroup.com</string>
+      </CCs>
+    </SendMail>
+  </soap12:Body>
+</soap12:Envelope>
